@@ -5,9 +5,9 @@
    :caption: Hosted PoC Infos
    :hidden:
 
-   1-hpoc-infos/ansprechpartner/ansprechpartner
-   1-hpoc-infos/clusteraccess/clusteraccess
-   1-hpoc-infos/clusterdetails/clusterdetails
+   1-hpoc/ansprechpartner/ansprechpartner
+   1-hpoc/clusteraccess/clusteraccess
+   1-hpoc/clusterdetails/clusterdetails
 
 .. toctree::
    :maxdepth: 2
@@ -40,22 +40,19 @@
    3-files/files_expand_cluster/files_expand_cluster
 
 .. toctree::
-  :maxdepth: 2
-  :caption: End User Computing - Citrix
-  :name: _euccitrix
-  :hidden:
+   :maxdepth: 2
+   :caption: Private Cloud Labs
+   :hidden:
 
-  x-citrix/gettingstarted/gettingstarted
-  x-citrix/goldimage/goldimage
-  x-citrix/pdesktops/pdesktops
-  x-citrix/npdesktops/npdesktops
-  x-citrix/updatecatalog/updatecatalog
-  x-citrix/files/files
-  x-citrix/flow_quarantine_vm/flow_quarantine_vm
-  x-citrix/flow_secure_desktops/flow_secure_desktops
-  x-citrix/prismops/prismops_capacity_lab_ctx/prismops_capacity_lab
-  x-citrix/prismops/prismops_rightsize_ctx_lab/prismops_rightsize_euc_lab
-
+   4-privatecloud/dayinlife/dayinlife
+   4-privatecloud/prismops/prismops_capacity_lab/prismops_capacity_lab
+   4-privatecloud/prismops/prismops_rightsize_lab/prismops_rightsize_lab
+   4-privatecloud/security/security
+   4-privatecloud/files/files
+   4-privatecloud/flow_secure_fiesta/flow_secure_fiesta
+   4-privatecloud/beam_cost_governance/beam_cost_governance
+   4-privatecloud/image_create/image_create
+   4-privatecloud/lab_image_configuration/lab_image_configuration
 
 .. toctree::
   :maxdepth: 2
