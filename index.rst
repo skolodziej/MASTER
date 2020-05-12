@@ -62,6 +62,22 @@
    7-splunk/generate_logs/generate_logs
 
 .. toctree::
+   :maxdepth: 2
+   :caption: API Labs
+   :hidden:
+
+   8-api/env_setup/env_setup
+   8-api/api_cluster_list/api_cluster_list
+   8-api/api_create_vm/api_create_vm
+   8-api/api_vm_status/api_vm_status
+   8-api/api_image_list/api_image_list
+   8-api/api_update_vm/api_update_vm
+   8-api/api_subnet_list/api_subnet_list
+   8-api/api_vm_guest_customization/api_vm_guest_customization
+   8-api/api_delete_vm/api_delete_vm
+   8-api/api_vm_list/api_vm_list
+   
+.. toctree::
   :maxdepth: 2
   :caption: Anhang Labs
   :hidden:
