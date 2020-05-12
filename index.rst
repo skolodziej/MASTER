@@ -51,8 +51,15 @@
    4-privatecloud/files/files
    4-privatecloud/flow_secure_fiesta/flow_secure_fiesta
    4-privatecloud/beam_cost_governance/beam_cost_governance
-   4-privatecloud/image_create/image_create
-   4-privatecloud/lab_image_configuration/lab_image_configuration
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Splunk auf AHV Labs
+   :hidden:
+
+   7-splunk/objects_splunk/objects_splunk
+   7-splunk/setup_splunk/setup_splunk
+   7-splunk/generate_logs/generate_logs
 
 .. toctree::
   :maxdepth: 2
