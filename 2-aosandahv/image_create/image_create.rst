@@ -100,7 +100,7 @@ Download VM Disk Files From Nutanix Container
 
 #. Sample Output
 
-   .. figure:: images/1.png
+   .. figure:: images/1a.png
 
 #. Power off user VM, whose disks will be exported.
 
@@ -110,4 +110,4 @@ Download VM Disk Files From Nutanix Container
 
 #. Navigate to the path that was found in Step 1. You can download required files from Nutanix container to your local PC now.
 
-   .. figure:: images/2.png
+   .. figure:: images/2a.png
