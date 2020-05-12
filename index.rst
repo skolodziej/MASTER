@@ -24,6 +24,22 @@
    2-aosandahv/lab_image_configuration/lab_image_configuration
 
 .. toctree::
+   :maxdepth: 2
+   :caption: Files Labs
+   :hidden:
+
+   3-files/files_smb_share/files_smb_share
+   3-files/files_nfs_export/files_nfs_export
+   3-files/files_file_blocking/files_file_blocking
+   3-files/files_multiprotocol/files_multiprotocol
+   3-files/file_analytics_scan/file_analytics_scan
+   3-files/file_analytics_anomaly/file_analytics_anomaly
+   3-files/peer/peer
+   3-files/files_deploy/files_deploy
+   3-files/file_analytics_deploy/file_analytics_deploy
+   3-files/files_expand_cluster/files_expand_cluster
+
+.. toctree::
   :maxdepth: 2
   :caption: End User Computing - Citrix
   :name: _euccitrix
