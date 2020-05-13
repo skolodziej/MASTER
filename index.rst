@@ -54,6 +54,22 @@
 
 .. toctree::
    :maxdepth: 2
+   :caption: Citrix EUC
+   :hidden:
+
+   5-euc/citrix/gettingstarted/gettingstarted
+   5-euc/citrix/goldimage/goldimage
+   5-euc/citrix/pdesktops/pdesktops
+   5-euc/citrix/npdesktops/npdesktops
+   5-euc/citrix/updatecatalog/updatecatalog
+   5-euc/citrix/files/files
+   5-euc/citrix/flow_quarantine_vm/flow_quarantine_vm
+   5-euc/citrix/flow_secure_desktops/flow_secure_desktops
+   5-euc/citrix/prismops/prismops_capacity_lab_ctx/prismops_capacity_lab
+   5-euc/citrix/prismops/prismops_rightsize_ctx_lab/prismops_rightsize_euc_lab
+
+.. toctree::
+   :maxdepth: 2
    :caption: Splunk auf AHV Labs
    :hidden:
 
