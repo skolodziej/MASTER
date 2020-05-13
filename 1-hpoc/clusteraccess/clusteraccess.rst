@@ -8,6 +8,7 @@ Zugangs Übersicht
 +++++++++++++++++
 
 Die Lab Umgebung stehen physisch in der USA. Um auf diese zugreifen zu können wird ein Remote Zugriff benötigt. Hierfür stehen 3 Optionen zur Auswahl: **Nutanix Frame VDI**, **Pulse VPN** *oder* **Parallel VDI Zugang.**
+
 Die Nutanix Datacenter stehen i.d.R. in einem von 2 unterschiedlichen Datacentern in der USA welches Sie an Ihrer VPN Benutzerkennung erkennen können: **PHX** = Phoenix Datacenter in Arizona oder **RTP** = Durham Datacenter in North Carolina. Je nach Verbindungsart müssen Sie ggf. Datacenter spezifische Verbindungsparameter verwenden.
 
 Frame VDI Client
@@ -26,7 +27,7 @@ Frame VDI Client
 
 3. Danach landen Sie auf dem Frame Launchpad und können sie mit dem VDI Desktop verbinden. Abhängig davon ob Ihr HPoC in einem RTP oder PHX Datacenter steht müssen Sie ggf noch das Launchpad wechseln. Klicken Sie dafür oben mittig auf das kleine Symbol und wählen das passendene Desktop Lauchpad aus.
 
-.. figure:: images/frame-launchpad overview.png
+.. figure:: images/frame-launchpad-overview.png
 
 4. Danach können Sie durch klick auf das Desktop Symbol zu Ihrem VDI Desktop gelangen.
 
@@ -36,8 +37,6 @@ Frame VDI Client
 
 .. figure:: images/frame-desktop.png
 
-.. note::
-   Weitere Anleitungen zu Funktionen wie der Synchronisierung der Zwischenablage, der Übertragung von Frame-Dateien usw. finden Sie unter: Frame-Tipps
 
 Pulse Secure VPN Client
 +++++++++++++++++++++++
@@ -47,7 +46,9 @@ Pulse Secure VPN Client
 
 
 1.	Falls der Client bereits installiert ist bitte zu  Schritt 5 springen.
-2.	Um den Client herunter zu laden bitte an folgender Website unter Verwendung der bereitgestellten Zugangsdaten anmelden: **PHX** = https://xlv-uswest1.nutanix.com oder **RTP** = https://xlv-useast1.nutanix.com 
+2.	Um den Client herunter zu laden bitte an folgender Website unter Verwendung der bereitgestellten Zugangsdaten anmelden: 
+- **PHX** = https://xlv-uswest1.nutanix.com oder 
+- **RTP** = https://xlv-useast1.nutanix.com 
 
     .. figure:: images/pulsewebsite.png
 
