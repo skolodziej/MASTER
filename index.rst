@@ -70,6 +70,20 @@
 
 .. toctree::
    :maxdepth: 2
+   :caption: Frame EUC
+   :hidden:
+
+   5-euc/frame/gettingstarted/gettingstarted
+   5-euc/frame/goldimage/goldimage
+   5-euc/frame/deploycca/deploycca
+   5-euc/frame/manage/manage
+   5-euc/frame/flow_secure_desktops/flow_secure_desktops
+   5-euc/frame/prismops/prismops_rightsize_frm_lab/prismops_rightsize_euc_lab
+   5-euc/frame/framefiles/framefiles
+   5-euc/frame/edeploycca/deploycca
+
+.. toctree::
+   :maxdepth: 2
    :caption: Splunk auf AHV Labs
    :hidden:
 
