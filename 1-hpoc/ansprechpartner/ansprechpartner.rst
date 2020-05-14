@@ -15,11 +15,11 @@ Wenn es doch mal klemmt, sind Sie aber nicht alleine. Also keine Angst davor sic
    :widths: 40
    :header-rows: 1
 
-   * - **Martin Stenke**
-   * - .. figure:: images/MStenke.png
-   * - **Senior Systems Engineer**
-   * - Leonberg, Baden-Wuerttemberg
-   * - Seit September 2018 bei Nutanix
-   * - +49 160 / 8540279
-   * - martin.stenke@nutanix.com
+   * - **Sven Kolodziej**
+   * - .. figure:: images/SKolodziej.png
+   * - **Systems Engineer**
+   * - Tostedt, Niedersachsen
+   * - Seit Juli 2019 bei Nutanix
+   * - +49 151 / 46532582
+   * - sven.kolodziej@nutanix.com
    
