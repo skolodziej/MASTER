@@ -16,7 +16,7 @@ Wenn es doch mal klemmt, sind Sie aber nicht alleine. Also keine Angst davor sic
    :header-rows: 1
 
    * - **Sven Kolodziej**
-   * - .. figure:: images/SKolodziej.jpg
+   * - .. figure:: images/Skolodziej.jpg
    * - **Systems Engineer**
    * - Tostedt, Niedersachsen
    * - Seit Juli 2019 bei Nutanix
